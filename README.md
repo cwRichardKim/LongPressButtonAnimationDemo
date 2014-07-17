@@ -5,3 +5,5 @@ Similar to the Snapchat video recording button animation, this shows how to run 
 
 use this for whatever you like, you should be able to take the MKButtonAnimationTutorial.h and .m files,
 throw them in and link up the variables and it should work.
+
+![demo](http://i.imgur.com/W1S6Cvy.gif?1)
