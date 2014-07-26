@@ -4,7 +4,7 @@
 //
 //  Created by Richard Kim on 2/1/14.
 //  Go ahead and use this for whatever.  If you need some official agreement,
-//  send me an email at richard.kim@tufts.edu
+//  send me an email at cwrichardkim@gmail.com
 
 /*
  
