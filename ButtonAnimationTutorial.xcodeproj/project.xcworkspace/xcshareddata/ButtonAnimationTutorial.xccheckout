@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8A97B669-EC74-414C-A0C6-64A1226213EC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ButtonAnimationTutorial</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>433BA9EB-F02A-4F67-AE31-EF68FD02ED7A</key>
+		<string>https://github.com/cwrichardkim93/LongPressButtonAnimationDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ButtonAnimationTutorial.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>433BA9EB-F02A-4F67-AE31-EF68FD02ED7A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cwrichardkim93/LongPressButtonAnimationDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>433BA9EB-F02A-4F67-AE31-EF68FD02ED7A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>433BA9EB-F02A-4F67-AE31-EF68FD02ED7A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LongPressButtonAnimationDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
